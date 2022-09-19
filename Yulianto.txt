@@ -1,5 +1,10 @@
-Harapan apa ditahun 2023
-1. Lulus kuliah
-2. Bekerja  di perusahaan terkenal
-3. Punya pacar yang selalu ada
-4. Bisa membuat web sederhana
+<html>
+<head>
+<title> Page Title </title>
+</head>
+<body>
+
+Hello, this is my first web
+
+</body>
+</html>
